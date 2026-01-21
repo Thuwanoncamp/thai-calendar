@@ -1,0 +1,7 @@
+# แก้ไขโค้ดตามต้องการ
+# แล้วพิมพ์:
+
+git add .
+git commit -m "Update features"
+git push
+npm run deploy
