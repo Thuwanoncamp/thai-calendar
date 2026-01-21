@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thai-calendar/static/css/main.92c8d4eb.css",
-    "main.js": "/thai-calendar/static/js/main.0b9d8221.js",
+    "main.js": "/thai-calendar/static/js/main.f34d6415.js",
     "static/js/453.24e89790.chunk.js": "/thai-calendar/static/js/453.24e89790.chunk.js",
     "index.html": "/thai-calendar/index.html",
     "main.92c8d4eb.css.map": "/thai-calendar/static/css/main.92c8d4eb.css.map",
-    "main.0b9d8221.js.map": "/thai-calendar/static/js/main.0b9d8221.js.map",
+    "main.f34d6415.js.map": "/thai-calendar/static/js/main.f34d6415.js.map",
     "453.24e89790.chunk.js.map": "/thai-calendar/static/js/453.24e89790.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92c8d4eb.css",
-    "static/js/main.0b9d8221.js"
+    "static/js/main.f34d6415.js"
   ]
 }
